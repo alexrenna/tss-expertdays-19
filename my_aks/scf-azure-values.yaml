@@ -3,9 +3,9 @@
 
 env:
   # the FQDN of your domain  
-  DOMAIN: autolb.example.com
+  DOMAIN: autolb.suseita.net
   # the UAA prefix is required
-  UAA_HOST: uaa.autolb.example.com
+  UAA_HOST: uaa.autolb.suseita.net
   UAA_PORT: 2793
   GARDEN_ROOTFS_DRIVER: "overlay-xfs"
 
