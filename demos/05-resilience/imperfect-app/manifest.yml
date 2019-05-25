@@ -4,3 +4,4 @@ applications:
   memory: 32M
   disk_quota: 256M
   random-route: true
+  instances: 2
