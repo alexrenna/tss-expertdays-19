@@ -1,7 +1,7 @@
 applications:
 - name: web-app_v1
   memory: 64M
-  instances: 1
-  host: smooth_deployment
+  instances: 2
+  host: alexrenna
   domain: cap.it-slav.net
 
